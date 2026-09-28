@@ -33,7 +33,4 @@ public class Main {
         studentService.displayReportCard(student);
         sc.close(); 
     }
-
 }
-
-
